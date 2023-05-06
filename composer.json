@@ -1,0 +1,15 @@
+{
+    "name": "jefferson/bingo_novo",
+    "autoload": {
+        "psr-4": {
+            "Bingo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jefferson Frade",
+            "email": "jefferrson.frade@gmail.com"
+        }
+    ],
+    "require": {}
+}
